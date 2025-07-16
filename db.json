@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://i5.walmartimages.com/seo/Fresh-Red-Delicious-Apple-Each_7320e63a-de46-4a16-9b8c-526e15219a12_3.e557c1ad9973e1f76f512b34950243a3.jpeg",
+      "name": "Apple",
+      "count": 10,
+      "size": {
+        "width": 150,
+        "height": 150
+      },
+      "weight": "200g",
+      "comments": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://m.media-amazon.com/images/I/31oubF6SdeL._UF894,1000_QL80_.jpg",
+      "name": "Banana",
+      "count": 5,
+      "size": {
+        "width": 180,
+        "height": 100
+      },
+      "weight": "300g",
+      "comments": [
+        3
+      ]
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://i5.walmartimages.com/asr/a134f2a1-2bb0-4e5c-a594-f84b63ab5928.22241f295458186b2ba0e4ed7d460d52.jpeg",
+      "name": "Orange",
+      "count": 7,
+      "size": {
+        "width": 160,
+        "height": 140
+      },
+      "weight": "250g",
+      "comments": []
+    },
+    {
+      "id": "3966",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "name": "Kiwi",
+      "count": 13,
+      "size": {
+        "width": 12,
+        "height": 13
+      },
+      "weight": "200",
+      "comments": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "productId": 1,
+      "description": "Very juicy!",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": "2",
+      "productId": 1,
+      "description": "Crispy and sweet",
+      "date": "09:30 23.08.2021"
+    },
+    {
+      "id": "3",
+      "productId": 2,
+      "description": "Perfect for smoothies",
+      "date": "12:45 24.08.2021"
+    },
+    {
+      "id": "a5b1",
+      "productId": 1,
+      "description": "Best Apples Ever",
+      "date": "2025-07-16T10:58:13.502Z"
+    },
+    {
+      "id": "5cf5",
+      "productId": 1,
+      "description": " Hello World",
+      "date": "2025-07-16T11:23:39.119Z"
+    }
+  ]
+}
