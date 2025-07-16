@@ -1,7 +1,5 @@
 ## 🚀 Getting Started
 
-DEMO[Click](https://fruit-store-orpin.vercel.app/)
-
 1. Install the dependencies:
 ```bash
 npm install
